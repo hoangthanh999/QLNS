@@ -1,0 +1,1492 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QLNS\\Quanlynhansu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|d:\\qlns\\quanlynhansu\\quanlynhansu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmemployeelist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmemployeelist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmemployeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmemployeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\bll\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\bll\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\dal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\dal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmsalaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmsalaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmsalaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmsalaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmimportpreview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmimportpreview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmimportpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmimportpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmimportpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmimportpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmcalculatesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmcalculatesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmsalarydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmsalarydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmdepartmentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmdepartmentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmemployeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmemployeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmdepartmentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmdepartmentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmdepartmentmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmdepartmentmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmpositionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmpositionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmemployeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmemployeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\dal\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\dal\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmleavemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmleavemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\dal\\departmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\dal\\departmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmemployeereport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmemployeereport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmemployeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmemployeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\utilities\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\utilities\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\bll\\attendancebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\bll\\attendancebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\bll\\salaryreportbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\bll\\salaryreportbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\dal\\salaryreportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\dal\\salaryreportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\dal\\salarydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\dal\\salarydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\dal\\positiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\dal\\positiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\dal\\leaverequestdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\dal\\leaverequestdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\dal\\attendancedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\dal\\attendancedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\utilities\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\utilities\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\utilities\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\utilities\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\utilities\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\utilities\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\models\\salaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\models\\salaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\bll\\salarybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\bll\\salarybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\bll\\positionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\bll\\positionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\bll\\leaverequestbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\bll\\leaverequestbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\bll\\departmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\bll\\departmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmcalculatesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmcalculatesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmleaverequest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmleaverequest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmsalarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmsalarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmusermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmusermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmsalaryreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmsalaryreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmleavestatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmleavestatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmsalarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmsalarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmsalarydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmsalarydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmpositionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmpositionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmpositiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmpositiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmleaverequestdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmleaverequestdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmleavemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmleavemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmemployeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmemployeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmdepartmentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmdepartmentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmdepartmentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmdepartmentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmsalarydetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmsalarydetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmsalarymanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmsalarymanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmpositionmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmpositionmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmpositiondetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmpositiondetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmleavestatistics.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmleavestatistics.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmleaverequestdetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmleaverequestdetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmleavemanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmleavemanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmemployeedetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmemployeedetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmdepartmentdetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmdepartmentdetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmcalculatesalary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmcalculatesalary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmleavestatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmleavestatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmleaverequestdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmleaverequestdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmpositiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmpositiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|D:\\QLNS\\Quanlynhansu\\quanlynhansu\\forms\\frmemployeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35B366E-9F07-474C-AFD7-59D1D65ED05B}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\forms\\frmemployeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\App.config",
+              "RelativeDocumentMoniker": "Quanlynhansu\\App.config",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\App.config",
+              "RelativeToolTip": "Quanlynhansu\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-02T15:30:39.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Models\\Employee.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\Employee.cs",
+              "RelativeToolTip": "Quanlynhansu\\Models\\Employee.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T14:22:43.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeBLL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\EmployeeBLL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\BLL\\EmployeeBLL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\EmployeeBLL.cs",
+              "RelativeToolTip": "Quanlynhansu\\BLL\\EmployeeBLL.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAwwLgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T14:51:51.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDAL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\EmployeeDAL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\DAL\\EmployeeDAL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\EmployeeDAL.cs",
+              "RelativeToolTip": "Quanlynhansu\\DAL\\EmployeeDAL.cs",
+              "ViewState": "AQIAAJwBAAAAAAAAAAAwwKwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T14:50:42.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmEmployeeList.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeList.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmEmployeeList.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeList.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmEmployeeList.Designer.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAwwIoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:51:24.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmEmployeeList.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeList.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmEmployeeList.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeList.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmEmployeeList.cs",
+              "ViewState": "AQIAAD4CAAAAAAAAAAAswEsCAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:13:44.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmSalaryReport.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryReport.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmSalaryReport.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryReport.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmSalaryReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:16:25.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmSalaryReport.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryReport.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmSalaryReport.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryReport.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmSalaryReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:03:59.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmImportPreview.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmImportPreview.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmImportPreview.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmImportPreview.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmImportPreview.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T03:58:22.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmImportPreview.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmImportPreview.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmImportPreview.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmImportPreview.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmImportPreview.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAkwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T03:56:31.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmAttendance.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmAttendance.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmAttendance.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmAttendance.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmAttendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:24:20.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmImportPreview.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmImportPreview.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmImportPreview.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmImportPreview.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmImportPreview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T03:56:19.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmCalculateSalary.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmCalculateSalary.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmCalculateSalary.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmCalculateSalary.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmCalculateSalary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:59:57.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmSalaryDetail.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryDetail.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmSalaryDetail.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryDetail.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmSalaryDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:54:45.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmDepartmentManagement.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmDepartmentManagement.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmDepartmentManagement.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmDepartmentManagement.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmDepartmentManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:23:42.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmEmployeeList.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeList.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmEmployeeList.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeList.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmEmployeeList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:13:37.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmDepartmentDetail.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmDepartmentDetail.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmDepartmentDetail.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmDepartmentDetail.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmDepartmentDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T19:23:46.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmDepartmentManagement.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmDepartmentManagement.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmDepartmentManagement.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmDepartmentManagement.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmDepartmentManagement.Designer.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAYwLQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:26:12.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmMain.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmMain.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmMain.Designer.cs",
+              "ViewState": "AQIAAGIBAAAAAAAAAAAQwHcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:51:03.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmPositionManagement.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmPositionManagement.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmPositionManagement.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmPositionManagement.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmPositionManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:23:57.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmEmployeeReport.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeReport.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmEmployeeReport.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeReport.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmEmployeeReport.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvw0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:28:43.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\DAL\\DatabaseConnection.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\DatabaseConnection.cs",
+              "RelativeToolTip": "Quanlynhansu\\DAL\\DatabaseConnection.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T14:49:30.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmLeaveManagement.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveManagement.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmLeaveManagement.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveManagement.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmLeaveManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:55:41.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DepartmentDAL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\DepartmentDAL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\DAL\\DepartmentDAL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\DepartmentDAL.cs",
+              "RelativeToolTip": "Quanlynhansu\\DAL\\DepartmentDAL.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAAABIBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T14:50:53.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmLogin.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLogin.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmLogin.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:54:24.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmEmployeeReport.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeReport.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmEmployeeReport.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeReport.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmEmployeeReport.Designer.cs",
+              "ViewState": "AQIAAPgBAAAAAAAAAAAYwA4CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:28:58.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmMain.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmMain.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmMain.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmMain.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAQwMAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:13:03.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmEmployeeReport.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeReport.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmEmployeeReport.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeReport.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmEmployeeReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:28:31.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Utilities\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Utilities\\DatabaseHelper.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Utilities\\DatabaseHelper.cs",
+              "RelativeToolTip": "Quanlynhansu\\Utilities\\DatabaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:02:26.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SalaryReportBLL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\SalaryReportBLL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\BLL\\SalaryReportBLL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\SalaryReportBLL.cs",
+              "RelativeToolTip": "Quanlynhansu\\BLL\\SalaryReportBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T11:47:08.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AttendanceBLL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\AttendanceBLL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\BLL\\AttendanceBLL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\AttendanceBLL.cs",
+              "RelativeToolTip": "Quanlynhansu\\BLL\\AttendanceBLL.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:23:01.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\UserBLL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\BLL\\UserBLL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\UserBLL.cs",
+              "RelativeToolTip": "Quanlynhansu\\BLL\\UserBLL.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:08:33.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\UserDAL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\DAL\\UserDAL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\UserDAL.cs",
+              "RelativeToolTip": "Quanlynhansu\\DAL\\UserDAL.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAuwEYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T14:51:37.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SalaryReportDAL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\SalaryReportDAL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\DAL\\SalaryReportDAL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\SalaryReportDAL.cs",
+              "RelativeToolTip": "Quanlynhansu\\DAL\\SalaryReportDAL.cs",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAYwAkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T11:46:44.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SalaryDAL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\SalaryDAL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\DAL\\SalaryDAL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\SalaryDAL.cs",
+              "RelativeToolTip": "Quanlynhansu\\DAL\\SalaryDAL.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAADwv6gBAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:22:22.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PositionDAL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\PositionDAL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\DAL\\PositionDAL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\PositionDAL.cs",
+              "RelativeToolTip": "Quanlynhansu\\DAL\\PositionDAL.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAwJkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:55:24.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LeaveRequestDAL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\LeaveRequestDAL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\DAL\\LeaveRequestDAL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\LeaveRequestDAL.cs",
+              "RelativeToolTip": "Quanlynhansu\\DAL\\LeaveRequestDAL.cs",
+              "ViewState": "AQIAAHsBAAAAAAAAAAAqwOcBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:22:36.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AttendanceDAL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\AttendanceDAL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\DAL\\AttendanceDAL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\DAL\\AttendanceDAL.cs",
+              "RelativeToolTip": "Quanlynhansu\\DAL\\AttendanceDAL.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAAAwA8BAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:22:11.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Models\\LeaveRequest.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "Quanlynhansu\\Models\\LeaveRequest.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:21:40.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SecurityHelper.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Utilities\\SecurityHelper.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Utilities\\SecurityHelper.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Utilities\\SecurityHelper.cs",
+              "RelativeToolTip": "Quanlynhansu\\Utilities\\SecurityHelper.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:29:09.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Utilities\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Utilities\\ValidationHelper.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Utilities\\ValidationHelper.cs",
+              "RelativeToolTip": "Quanlynhansu\\Utilities\\ValidationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:29:25.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Program.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Program.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Program.cs",
+              "RelativeToolTip": "Quanlynhansu\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:56:14.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\packages.config",
+              "RelativeDocumentMoniker": "Quanlynhansu\\packages.config",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\packages.config",
+              "RelativeToolTip": "Quanlynhansu\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-06T08:05:46.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Utilities\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Utilities\\PasswordHelper.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Utilities\\PasswordHelper.cs",
+              "RelativeToolTip": "Quanlynhansu\\Utilities\\PasswordHelper.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:00:33.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Models\\User.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\User.cs",
+              "RelativeToolTip": "Quanlynhansu\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T14:49:00.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SalaryReport.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\SalaryReport.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Models\\SalaryReport.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\SalaryReport.cs",
+              "RelativeToolTip": "Quanlynhansu\\Models\\SalaryReport.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAA2wEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T11:46:24.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\Salary.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Models\\Salary.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\Salary.cs",
+              "RelativeToolTip": "Quanlynhansu\\Models\\Salary.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA+wC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:21:56.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Position.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Models\\Position.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\Position.cs",
+              "RelativeToolTip": "Quanlynhansu\\Models\\Position.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T14:41:20.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Models\\Department.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\Department.cs",
+              "RelativeToolTip": "Quanlynhansu\\Models\\Department.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA0wBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T14:41:09.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Models\\Attendance.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Models\\Attendance.cs",
+              "RelativeToolTip": "Quanlynhansu\\Models\\Attendance.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T14:48:42.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SalaryBLL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\SalaryBLL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\BLL\\SalaryBLL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\SalaryBLL.cs",
+              "RelativeToolTip": "Quanlynhansu\\BLL\\SalaryBLL.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAAIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:23:12.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PositionBLL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\PositionBLL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\BLL\\PositionBLL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\PositionBLL.cs",
+              "RelativeToolTip": "Quanlynhansu\\BLL\\PositionBLL.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAQwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:22:50.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LeaveRequestBLL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\LeaveRequestBLL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\BLL\\LeaveRequestBLL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\LeaveRequestBLL.cs",
+              "RelativeToolTip": "Quanlynhansu\\BLL\\LeaveRequestBLL.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAYwO0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:23:21.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DepartmentBLL.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\DepartmentBLL.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\BLL\\DepartmentBLL.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\BLL\\DepartmentBLL.cs",
+              "RelativeToolTip": "Quanlynhansu\\BLL\\DepartmentBLL.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAQwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:08:18.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frmCalculateSalary.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmCalculateSalary.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmCalculateSalary.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmCalculateSalary.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmCalculateSalary.cs",
+              "ViewState": "AQIAAE8CAAAAAAAAAAAYwGQCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:00:25.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frmAttendance.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmAttendance.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmAttendance.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmAttendance.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmAttendance.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAYwHoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:27:15.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frmAttendance.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmAttendance.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmAttendance.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmAttendance.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmAttendance.Designer.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAYwNwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:27:26.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "frmLeaveRequest.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveRequest.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmLeaveRequest.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveRequest.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmLeaveRequest.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:13:15.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "frmLeaveRequest.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveRequest.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmLeaveRequest.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveRequest.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmLeaveRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:13:06.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "frmLeaveRequest.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveRequest.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmLeaveRequest.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveRequest.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmLeaveRequest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:24:46.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "frmSalaryManagement.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryManagement.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmSalaryManagement.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryManagement.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmSalaryManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:24:34.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Properties\\Resources.resx",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\Properties\\Resources.resx",
+              "RelativeToolTip": "Quanlynhansu\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-06T16:35:31.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmLogin.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLogin.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmLogin.Designer.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAYwJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:54:31.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmMain.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmMain.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmMain.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:12:55.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmLogin.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:54:10.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "frmUserManagement.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmUserManagement.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmUserManagement.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmUserManagement.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmUserManagement.cs",
+              "ViewState": "AQIAAPABAAAAAAAAAAAYwPgBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:49:38.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "frmUserManagement.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmUserManagement.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmUserManagement.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmUserManagement.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmUserManagement.Designer.cs",
+              "ViewState": "AQIAAIwBAAAAAAAAAAAYwKIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:49:59.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "frmUserManagement.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmUserManagement.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmUserManagement.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmUserManagement.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmUserManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:49:28.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "frmSalaryReport.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryReport.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmSalaryReport.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryReport.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmSalaryReport.Designer.cs",
+              "ViewState": "AQIAAF4CAAAAAAAAAAAYwGsCAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:04:53.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "frmLeaveStatistics.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveStatistics.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmLeaveStatistics.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveStatistics.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmLeaveStatistics.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAAAOYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:59:31.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "frmSalaryDetail.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryDetail.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmSalaryDetail.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryDetail.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmSalaryDetail.cs",
+              "ViewState": "AQIAAEABAAAAAAAAAAAAAGUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:56:35.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "frmSalaryManagement.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryManagement.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmSalaryManagement.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryManagement.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmSalaryManagement.cs",
+              "ViewState": "AQIAANMBAAAAAAAAAAAAAPgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:52:21.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "frmPositionManagement.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmPositionManagement.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmPositionManagement.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmPositionManagement.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmPositionManagement.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAuwIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:20:28.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "frmPositionDetail.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmPositionDetail.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmPositionDetail.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmPositionDetail.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmPositionDetail.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAuwIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:21:44.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "frmLeaveRequestDetail.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveRequestDetail.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmLeaveRequestDetail.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveRequestDetail.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmLeaveRequestDetail.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAuwOYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:58:17.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "frmLeaveManagement.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveManagement.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmLeaveManagement.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveManagement.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmLeaveManagement.cs",
+              "ViewState": "AQIAAIsBAAAAAAAAAAAmwK4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:55:52.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "frmEmployeeDetail.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeDetail.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmEmployeeDetail.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeDetail.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmEmployeeDetail.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAmwBIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:52:58.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "frmDepartmentManagement.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmDepartmentManagement.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmDepartmentManagement.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmDepartmentManagement.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmDepartmentManagement.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAuwIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:26:02.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "frmDepartmentDetail.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmDepartmentDetail.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmDepartmentDetail.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmDepartmentDetail.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmDepartmentDetail.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAuwKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T19:23:51.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "frmSalaryDetail.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryDetail.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmSalaryDetail.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryDetail.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmSalaryDetail.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:54:55.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "frmSalaryManagement.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryManagement.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmSalaryManagement.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmSalaryManagement.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmSalaryManagement.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:51:57.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "frmPositionManagement.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmPositionManagement.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmPositionManagement.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmPositionManagement.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmPositionManagement.Designer.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAiwKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:20:16.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "frmPositionDetail.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmPositionDetail.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmPositionDetail.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmPositionDetail.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmPositionDetail.Designer.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAiwNcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:21:54.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "frmLeaveStatistics.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveStatistics.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmLeaveStatistics.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveStatistics.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmLeaveStatistics.Designer.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAiwLcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:59:17.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "frmLeaveRequestDetail.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveRequestDetail.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmLeaveRequestDetail.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveRequestDetail.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmLeaveRequestDetail.Designer.cs",
+              "ViewState": "AQIAACUBAAAAAAAAAAAiwD0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:58:32.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "frmLeaveManagement.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveManagement.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmLeaveManagement.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveManagement.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmLeaveManagement.Designer.cs",
+              "ViewState": "AQIAAIsBAAAAAAAAAAAiwKMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:56:06.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "frmEmployeeDetail.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeDetail.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmEmployeeDetail.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeDetail.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmEmployeeDetail.Designer.cs",
+              "ViewState": "AQIAALMBAAAAAAAAAAAiwMsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:53:13.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "frmDepartmentDetail.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmDepartmentDetail.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmDepartmentDetail.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmDepartmentDetail.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmDepartmentDetail.Designer.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAiwLwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T19:24:08.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "frmCalculateSalary.Designer.cs",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmCalculateSalary.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmCalculateSalary.Designer.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmCalculateSalary.Designer.cs",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmCalculateSalary.Designer.cs",
+              "ViewState": "AQIAAH0BAAAAAAAAAAAiwJUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:00:14.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "frmLeaveStatistics.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveStatistics.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmLeaveStatistics.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveStatistics.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmLeaveStatistics.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:59:05.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "frmLeaveRequestDetail.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveRequestDetail.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmLeaveRequestDetail.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmLeaveRequestDetail.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmLeaveRequestDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:57:57.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "frmPositionDetail.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmPositionDetail.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmPositionDetail.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmPositionDetail.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmPositionDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:21:21.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "frmEmployeeDetail.cs [Design]",
+              "DocumentMoniker": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeDetail.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\forms\\frmEmployeeDetail.cs",
+              "ToolTip": "D:\\QLNS\\Quanlynhansu\\Quanlynhansu\\forms\\frmEmployeeDetail.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\forms\\frmEmployeeDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:52:52.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
